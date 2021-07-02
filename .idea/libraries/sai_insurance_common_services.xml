@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sai-insurance-common-services">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/artifacts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/artifacts" recursive="false" />
+  </library>
+</component>
